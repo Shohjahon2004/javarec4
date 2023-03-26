@@ -38,5 +38,4 @@ function receipt() {
        }
    }]
    const count = Math.floor(Math.random() * arrayReceipt.length)
-   return arrayReceipt[count]
-}
+   return arrayReceipt[count]}
